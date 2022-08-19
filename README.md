@@ -4,6 +4,7 @@
 ```
 xwinwrap
 xrandr
+mpv
 ```
 
 ### install
