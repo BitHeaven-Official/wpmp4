@@ -1,7 +1,7 @@
 install:
 	mkdir -p /usr/local/bin
-	cp -f scrsht /usr/local/bin
-	chmod 755 /usr/local/bin/scrsht
+	cp -f wpmp4 /usr/local/bin
+	chmod 755 /usr/local/bin/wpmp4
   
 uninstall:
-	rm -f /usr/local/bin/scrsht
+	rm -f /usr/local/bin/wpmp4
