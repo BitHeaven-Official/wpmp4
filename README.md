@@ -1,2 +1,22 @@
 # wpmp4
-Set mp4 wallpaper (DWM)
+
+### requirements
+```
+xwinwrap
+xrandr
+```
+
+### install
+```
+make install
+```
+
+### uninstall
+```
+make uninstall
+```
+
+### usage
+```
+wpmp4 <mp4 file>
+```
